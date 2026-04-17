@@ -1,7 +1,0 @@
-{
-  "name": "Remix: Ratnasri Associates",
-  "description": "Premium Real Estate and Insurance Services in Hyderabad, India. Trusted advisor for residential, commercial properties and life, health, vehicle insurance.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
